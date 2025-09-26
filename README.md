@@ -1,4 +1,5 @@
-# octokit.js
+exit sdk
+
 
 > The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 
@@ -15,14 +16,8 @@ The `octokit` package integrates the three main Octokit libraries
 - [octokit.js](#octokitjs)
   - [Features](#features)
   - [Usage](#usage)
-  - [`Octokit` API Client](#octokit-api-client)
-    - [Constructor options](#constructor-options)
-    - [Authentication](#authentication)
-    - [Proxy Servers (Node.js only)](#proxy-servers-nodejs-only)
-      - [Fetch missing](#fetch-missing)
-    - [REST API](#rest-api)
-      - [`octokit.rest` endpoint methods](#octokitrest-endpoint-methods)
-      - [`octokit.request()`](#octokitrequest)
+  - [`Octokit` API Client](# (Node.js only)](#proxy-servers-nodejs-only)
+      - [Fetch missing](#fetchoctokitrequest)
       - [Pagination](#pagination)
       - [Media Type formats](#media-type-formats)
       - [Request error handling](#request-error-handling)
